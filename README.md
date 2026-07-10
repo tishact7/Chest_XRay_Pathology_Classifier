@@ -6,7 +6,7 @@ Automated multi-label thoracic disease detection from frontal chest X-ray images
 **Built by:** [Tisha Chatterjee](https://linkedin.com/in/tishachatterjee) — Biomedical Engineering Student & Independent Researcher  
 **Research Affiliations:** MIT Critical Data | Stanford | CureQuest | GeorgeWashington University |
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/tishact7/Chest_XRay_Pathology_Classifier/blob/main/CWH_chest_xray_ai_notebook.ipynb))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/tishact7/Chest_XRay_Pathology_Classifier/blob/main/CWH_chest_xray_ai_notebook.ipynb)
 
 ---
 
