@@ -267,7 +267,7 @@ If you use this work in your research, please cite:
   author = {Chatterjee, Tisha},
   title = {Chest X-Ray Pathology Classifier: Multi-Label Thoracic Disease Detection with DenseNet-121},
   year = {2026},
-  howpublished = {\url{https://github.com/YOUR-USERNAME/YOUR-REPO}},
+  howpublished = {\url{[https://github.com/tishact7/Chest_XRay_Pathology_Classifier]}},
   note = {Independent research project}
 }
 ```
