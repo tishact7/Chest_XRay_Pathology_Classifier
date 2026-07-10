@@ -276,8 +276,6 @@ If you use this work in your research, please cite:
 
 ## License
 
-**MIT License** — Open for research, educational, and non-commercial use.
-
 **Not for clinical deployment** without regulatory approval (FDA, CE, CDSCO, etc.).
 
 ---
@@ -287,7 +285,6 @@ If you use this work in your research, please cite:
 - **NIH Clinical Center** for the ChestX-ray14 dataset
 - **PyTorch Team** for the DenseNet-121 implementation
 - **Google Colab** for free GPU access enabling independent research
-- Mentors at MIT Critical Data, Stanford S.Y.A.L.I.S Labs, and CureQuest for research methodology guidance
 
 ---
 
